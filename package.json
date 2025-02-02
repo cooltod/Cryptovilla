@@ -1,0 +1,27 @@
+{
+  "name": "cryptovilla",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cooltod/Cryptovilla.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cooltod/Cryptovilla/issues"
+  },
+  "homepage": "https://github.com/cooltod/Cryptovilla#readme",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "next": "^15.1.6",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "viem": "^2.22.17"
+  }
+}
